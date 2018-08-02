@@ -7,7 +7,7 @@ Esta aplicação realiza algumas consultas específicas ao banco de de dados.
 ## Como utilizar:
 
 * Execute o arquivo `logtool.py` para rodar o servidor.
-* Abra seu navegador no `[http://localhost:8000/](http://localhost:8000/)` para fazer a chamada ao servidor.
+* Abra seu navegador no `http://localhost:8000` para fazer a chamada ao servidor.
 * Aguarde a mensagem "Queries processadas com sucesso!".
 * Verifique seu console onde está rodando os servidor.
 * A resposta recebida no meu banco de dados foi:
